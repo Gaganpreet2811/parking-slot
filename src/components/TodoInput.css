@@ -1,0 +1,37 @@
+.hero-image {
+  background-image: url("/carparking1.jpg");
+height:500px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+background-size: cover;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
+}
+.size
+{
+margin:auto;
+  height:250px;
+  width:250px;
+}
+
+.hero-image-booked {
+  background-image: url("/carbooking1.jpg");
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 230px;
+  width:500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.hero-image-empty {
+  background-image: url("/parking_spot.jpg");
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 230px;
+  width:500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
