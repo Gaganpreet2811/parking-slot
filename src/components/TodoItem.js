@@ -19,7 +19,7 @@ function TodoItem({todo})
 				{todo.name?
 					<div className="col mx-auto  border border-dark m-3 bg-light hero-image-booked">
 					<div className="p-2 text-white text-center">
-					<strong>....This slot is booked....</strong></div>
+					<strong>This slot is booked</strong></div>
 					<div className="p-1 text-white text-center">
 					<strong> Parking Slot No.#{todo.id}</strong></div>
 				<div className="p-2 text-white text-center">
